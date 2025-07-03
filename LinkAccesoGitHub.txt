@@ -1,0 +1,5 @@
+Trabajo presentado por Mario Cesar Deossa ADSO 2879709
+CRUD con REACT.
+Usando VisualStudio CODE y Laragon.
+
+LINK: https://github.com/KingSniper92/CRUD-REACT-ADSO-2879709.git
